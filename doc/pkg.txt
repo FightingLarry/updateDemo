@@ -1,0 +1,36 @@
+Reading1{
+applicationId "com.test.reading"
+versionCode 051610012
+versionName "v5.3.5.1.0510.2"
+manifestPlaceholders=[APP_NAME_GRADLE:"阅读1"]
+}
+Reading2{
+applicationId "com.test.reading"
+versionCode 051610012
+versionName "v7.1.2.1.0510.2"
+manifestPlaceholders=[APP_NAME_GRADLE:"阅读2"]
+}
+Reading3{
+applicationId "com.test.reading"
+versionCode 041610012
+versionName "v5.3.5.1.0410.2"
+manifestPlaceholders=[APP_NAME_GRADLE:"阅读3"]
+}
+Social1{
+applicationId "com.test.social"
+versionCode 091610012
+versionName "v1.0.1.1.0910.2"
+manifestPlaceholders=[APP_NAME_GRADLE:"社交1"]
+}
+Social2{
+applicationId "com.test.social"
+versionCode 091610012
+versionName "v2.0.1.1.0910.2"
+manifestPlaceholders=[APP_NAME_GRADLE:"社交2"]
+}
+Social3{
+applicationId "com.test.social"
+versionCode 101610012
+versionName "v1.0.1.1.1010.2"
+manifestPlaceholders=[APP_NAME_GRADLE:"社交3"]
+}
