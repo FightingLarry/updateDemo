@@ -32,14 +32,14 @@ android {
         }
         Social2 {
             applicationId "com.test.social"
-            versionCode 91610012
-            versionName "v2.0.1.1.0910.2"
+            versionCode 101610012
+            versionName "v1.0.1.1.1010.2"
             manifestPlaceholders = [APP_NAME_GRADLE: "社交2"]
         }
         Social3 {
             applicationId "com.test.social"
-            versionCode 101610012
-            versionName "v1.0.1.1.1010.2"
+            versionCode 101610013
+            versionName "v1.0.1.1.1010.3"
             manifestPlaceholders = [APP_NAME_GRADLE: "社交3"]
         }
 
