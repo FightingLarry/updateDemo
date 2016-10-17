@@ -14,14 +14,14 @@ android {
         }
         Reading2 {
             applicationId "com.test.reading"
-            versionCode 51610012
-            versionName "v7.1.2.1.0510.2"
+            versionCode 61610012
+            versionName "v5.3.5.1.0610.2"
             manifestPlaceholders = [APP_NAME_GRADLE: "阅读2"]
         }
         Reading3 {
             applicationId "com.test.reading"
-            versionCode 41610012
-            versionName "v5.3.5.1.0410.2"
+            versionCode 51610013
+            versionName "v5.3.5.1.0510.3"
             manifestPlaceholders = [APP_NAME_GRADLE: "阅读3"]
         }
         Social1 {
